@@ -4,7 +4,7 @@
 
 [**Hugging Face link for Overlord-T Model**](https://huggingface.co/ghosteau/OverlordT/tree/main)
 
-*It is trained on the BERT pre-trained transformer architecture*
+***Note:*** *It is trained on the BERT pre-trained transformer architecture*
 
 ---
 
