@@ -3,6 +3,7 @@
 > **Note**: Due to file size limitations, the Overlord-T pre-trained model could not be uploaded to GitHub. You can access it directly via Hugging Face using the link below:
 
 [**Hugging Face link for Overlord-T Model**](https://huggingface.co/ghosteau/OverlordT/tree/main)
+*It is trained on the BERT pre-trained transformer architecture*
 
 ---
 
@@ -25,7 +26,7 @@ Below is a list of commands supported by Overlord:
 - `modelselection <modelnumber>`: Toggles AI detection modes:
   - `0`: Disable AI detection.
   - `1`: Use Overlord-LOG1 (legacy model).
-  - `2`: Use Overlord-T (state-of-the-art model).
+  - `2`: Use Overlord-T (transformer-based model; more accurate and understands context better generally).
 
 ---
 
@@ -45,13 +46,12 @@ Below is a list of commands supported by Overlord:
 - **AI Detection Modes**: Introduced three modes for AI detection:
   - **Off Mode**: Disables detection.
   - **Overlord-LOG1**: Legacy model with reliable performance.
-  - **Overlord-T**: Premium state-of-the-art model designed for continuous updates.
+  - **Overlord-T**: Transformer model that has much better performance and understands context.
 - **Help Command Overhaul**: Improved `helpme` command to be more user-friendly and comprehensive.
 - **Organized Logs**: Enhanced log organization and usability for developers and users.
 - **Terms of Use**: Added `/terms` slash command to display Overlord’s official terms of use.
 - **Codebase Refactoring**: Optimized codebase structure for easier maintenance and development.
 - **SQL Integration Slash Command**: Added slash command for toggling SQL support, ensuring compliance with Discord policies and Overlord terms of use.
-- **Transformer Model Link**: Added Hugging Face link for Overlord-T due to file size limitations.
-
+- **Transformer Model Link**: Added Hugging Face link for Overlord-T model due to file size limitations.
 ---
 
