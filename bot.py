@@ -6,11 +6,9 @@ import pandas as pd
 from sqlalchemy import create_engine, exc
 import asyncio
 
-# Note: this project does not use real Discord user info at all, including for training models
 # Do /terms to see the terms of use and privacy policy
 
 spam_counts = {}
-
 def run_discord_bot():
     """
     I highly suggest you use an env variable for storing the bot token, as it is generally safer
