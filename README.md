@@ -1,6 +1,6 @@
 # Overlord Discord Bot -- Official Codebase
 
-> **Note**: Due to file size limitations, the Overlord-T pre-trained model could not be uploaded to GitHub. You can access it directly via Hugging Face using the link below:
+> **Note**: Due to file size limitations, the Overlord-T pre-trained model (specifically the safetensors) could not be uploaded to GitHub. You can access it directly via Hugging Face using the link below:
 
 [**Hugging Face link for Overlord-T Model**](https://huggingface.co/ghosteau/OverlordT/tree/main)
 
@@ -55,3 +55,4 @@ Below is a list of commands supported by Overlord:
 - **SQL Integration Slash Command**: Added slash command for toggling SQL support, ensuring compliance with Discord policies and Overlord terms of use.
 - **Transformer Model Link**: Added Hugging Face link for Overlord-T model due to file size limitations.
 ---
+
