@@ -54,5 +54,9 @@ Below is a list of commands supported by Overlord:
 - **Codebase Refactoring**: Optimized codebase structure for easier maintenance and development.
 - **SQL Integration Slash Command**: Added slash command for toggling SQL support, ensuring compliance with Discord policies and Overlord terms of use.
 - **Transformer Model Link**: Added Hugging Face link for Overlord-T model due to file size limitations.
+
+### **8/08/2025 Matinence Update**
+- Some matinence stuff, such as refactoring the code, deleting some verbose comments, and adding a requirements folder for easier dependency management
 ---
+
 
