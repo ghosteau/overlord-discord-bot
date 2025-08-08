@@ -2,7 +2,7 @@
 
 > **Note**: Due to file size limitations, the Overlord-T pre-trained model (specifically the safetensors) could not be uploaded to GitHub. You can access it directly via Hugging Face using the link below:
 
-[**Hugging Face link for Overlord-T Model**](https://huggingface.co/ghosteau/OverlordT/tree/main)
+[**Hugging Face link for Overlord-T Model**](https://huggingface.co/ghosteau/OverlordT/tree/main) ==> you can then simply drag and drop the safetensors file into the OverlordTPresave directory.
 
 ***Note:*** *It is trained on the BERT pre-trained transformer architecture*
 
@@ -58,5 +58,6 @@ Below is a list of commands supported by Overlord:
 ### **8/08/2025 Matinence Update**
 - Some matinence stuff, such as refactoring the code, deleting some verbose comments, and adding a requirements folder for easier dependency management
 ---
+
 
 
